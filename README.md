@@ -8,7 +8,7 @@
 </h1>
 
 <h4 align="center">
-    <a href="">
+    <a href="https://arxiv.org/abs/2311.11567">
     Complex Open-ended Reasoning Evaluation for Multi-Modal Large Language Models
 </h4>
 
@@ -44,7 +44,7 @@
 
 ## News
 
-- 🎉 **[2023.11.18]** We release paper at [arxive]().
+- 🎉 **[2023.11.18]** We release paper at [arxive](https://arxiv.org/abs/2311.11567).
 
 
 ## Leaderboard
