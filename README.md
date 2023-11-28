@@ -20,7 +20,7 @@
   <a href="">
     <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Datasets-blue">
   </a>
-  <a href="">
+  <a href="https://paperswithcode.com/sota/visual-question-answering-vqa-on-core-mm">
       <img src="https://img.shields.io/badge/CORE--MM-Leaderboard-%2321b3b6.svg?logo=data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHg9IjBweFwiIHk9IjAiIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCA1MTIgNTEyIiB4bWw6c3BhY2U9InByZXNlcnZlIj48c3R5bGU+LnN0MHtmaWxsOiMyMWYwZjN9PC9zdHlsZT48cGF0aCBjbGFzcz0ic3QwIiBkPSJNODggMTI4aDQ4djI1Nkg4OFYxMjh6bTE0NCAwaDQ4djI1NmgtNDhWMTI4em0tNzIgMTZoNDh2MjI0aC00OFYxNDR6bTE0NCAwaDQ4djIyNGgtNDhWMTQ0em03Mi0xNmg0OHYyNTZoLTQ4VjEyOHoiLz48cGF0aCBjbGFzcz0ic3QwIiBkPSJNMTA0IDEwNFY1NkgxNnY0MDBoODh2LTQ4SDY0VjEwNGg0MHptMzA0LTQ4djQ4aDQwdjMwNGgtNDB2NDhoODhWNTZoLTg4eiIvPjwvc3ZnPg==">
   </a>
 </p>
@@ -107,7 +107,7 @@ The copyright of the images belongs to the original authors.
 See [LICENSE](LICENSE) for more information.
 
 
-## Contributors
+<!-- ## Contributors
 
 [Xiaotian Han](), 
 [Quanzeng You](), 
@@ -120,4 +120,4 @@ See [LICENSE](LICENSE) for more information.
 [Bohan Zhai](), 
 [Jianbo Yuan](), 
 [Heng Wang](), 
-[Hongxia Yang]() 
+[Hongxia Yang]()  -->
