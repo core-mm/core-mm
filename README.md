@@ -40,7 +40,8 @@
 
 ## News
 
-- 🎉 **[2023.11.18]** We release paper at [arxive](https://arxiv.org/abs/2311.11567).
+- 🎉 **[2023.12.11]** The inference of Core-MM is now supported in [VLMEvalKit](https://github.com/open-compass/VLMEvalKit).
+- 🎉 **[2023.11.18]** We release paper at [arxiv](https://arxiv.org/abs/2311.11567).
 
 ## Leaderboard
 
